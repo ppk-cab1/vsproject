@@ -10,7 +10,7 @@ namespace _1125
     {
         static void Main(string[] args)
         {
-            Console.WriteLine();
+            Console.WriteLine("test");
         }
     }
 }
